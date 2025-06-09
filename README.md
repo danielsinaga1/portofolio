@@ -1,8 +1,7 @@
 # 🚀 Modern React Developer Portfolio
 
 <div align="center">
-  <img src="/preview.gif" alt="Portfolio Preview" width="800px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
-  
+
   [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg)](https://tailwindcss.com/)
   [![GSAP](https://img.shields.io/badge/GSAP-3.x-88CE02.svg)](https://greensock.com/gsap/)

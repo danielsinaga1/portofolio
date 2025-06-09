@@ -1,55 +1,38 @@
-# React Developer Portfolio template
-#### Live Demo https://react-portfolio-v1.netlify.app/
-#### Figma Design https://www.figma.com/community/file/1116246660507537002
-### Preview ( Dark Mode )
+# 🚀 Modern React Developer Portfolio
 
-<img src="/preview.gif" alt="preview" width="600px" />
+<div align="center">
+  <img src="/preview.gif" alt="Portfolio Preview" width="800px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+  
+  [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg)](https://tailwindcss.com/)
+  [![GSAP](https://img.shields.io/badge/GSAP-3.x-88CE02.svg)](https://greensock.com/gsap/)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+</div>
 
-## Follow Below instructions to add your deatils in the portfolio.
+## ✨ Features
 
-### Change and customize every section according to your need, All you need to do is edit `/src/Details.js`
+- 🎨 **Modern Design** - Clean, professional, and responsive layout
+- 🌙 **Dark/Light Mode** - Toggle between themes seamlessly
+- 📱 **Fully Responsive** - Optimized for all device sizes
+- ⚡ **Fast Performance** - Optimized React components and lazy loading
+- 🎭 **Smooth Animations** - GSAP-powered animations and transitions
+- 🔍 **Project Filtering** - Search and filter projects by technology
+- 📧 **Contact Form** - Functional contact form integration
+- ♿ **Accessible** - WCAG compliant design
+- 🎯 **SEO Optimized** - Meta tags and structured data
 
-#### Open `/src/Details.js` & modify it as per your need.
+## 🛠️ Tech Stack
 
-```javascript
-/ Enter your Personal Details here
-export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
-  img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-  when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
-};
+| Technology | Purpose |
+|-----------|---------|
+| **React 18** | Frontend framework |
+| **Tailwind CSS** | Styling and responsive design |
+| **GSAP** | Advanced animations |
+| **React Router** | Client-side routing |
+| **Styled JSX** | Component-scoped CSS |
 
-// Enter your Social Media URLs here
-export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
-};
 
-// Enter your Work Experience here
-export const workDetails = [
-  {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
-  }
-];
-
-// Enter your Education Details here
-export const eduDetails = { ... };
-
-// Tech Stack and Tools
-export const techStackDetails = { ... };
-
-// Enter your Project Details here
-export const projectDetails = [ ... ];
-
-// Enter your Contact Details here
-export const contactDetails = { ... };
-```
+<div align="center">
+  <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>⭐ Star this repo if you found it helpful!</p>
+</div>
